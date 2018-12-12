@@ -45,7 +45,7 @@
 
 #include "gtest/gtest.h"
 
-#include "radixsort.h"
+#include "RadixSort.h"
 #include "GTestNoDeath.h"
 
 namespace {
